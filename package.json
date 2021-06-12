@@ -1,0 +1,32 @@
+{
+  "name": "nodemasterclass",
+  "version": "0.0.1",
+  "description": "Learning Node.js with Brad",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManotLuijiu/NodeMasterclass.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Manot L.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManotLuijiu/NodeMasterclass/issues"
+  },
+  "homepage": "https://github.com/ManotLuijiu/NodeMasterclass#readme",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
