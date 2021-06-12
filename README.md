@@ -1,8 +1,9 @@
 # Node Config
 
-## http2 coding
+## Code for http2
 
 Reference:
+
 <https://stackoverflow.com/questions/58818303/how-to-implement-and-use-http-2-in-node-js>
 
 <https://nodejs.org/api/http2.html#http2_server_side_example>
